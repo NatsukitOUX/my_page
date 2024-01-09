@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333; 
+    margin: 20px; 
+}
+
+h1 {
+    color: #007BFF; 
+}
+
+a {
+    color: #28a745; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+a:visited {
+    color: #6c757d; 
+}
+
+a:active {
+    color: #e44d26; 
+}
+
+img {
+    max-width: 100%; 
+    height: auto; 
+    margin-top: 10px; 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+}
+
+.date {
+    font-size: 14px; 
+    color: #868e96; 
+}
+
+p {
+    font-size: 16px; 
+}
+
+.lead {
+    font-weight: bold; 
+}
+
+blockquote {
+    border-left: 2px solid #007BFF; 
+    padding-left: 10px; 
+    color: #6c757d; 
+}
