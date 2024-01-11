@@ -1,0 +1,16 @@
+body{
+
+
+}
+
+article{
+    width: 740px;
+    margin: 16px auto;
+}
+/* if the browser is window is smaller than 600px */
+@media(max-width:450px){
+
+    article{
+        width: 90%;
+    }
+}
